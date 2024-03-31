@@ -51,7 +51,7 @@ The notebook implements several machine learning models using scikit-learn. It i
 
 ## Results
 
-The best model achieved an accuracy of [92.29%]%. However, it should be noted that there are certain challenges in accurately classifying some bean classes due to their similarities.
+The best model achieved an accuracy of [92.58]%. However, it should be noted that there are certain challenges in accurately classifying some bean classes due to their similarities.
 
 
 
